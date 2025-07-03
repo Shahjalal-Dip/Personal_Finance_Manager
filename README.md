@@ -53,7 +53,6 @@ A **console-based C# application** to manage your personal finances — track in
 📄 Example Output
    genarate a personal finance report:.txt file
 
-```
 ===== Personal Finance Report =====
 
 User: shahjalaldip
@@ -68,7 +67,7 @@ Date       Type      Category    Amount    Description
 Total Income: 5000 BDT
 Total Expense: 250 BDT
 Balance: 4750 BDT
-```
+
 
 🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss your ideas.
