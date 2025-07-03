@@ -1,6 +1,11 @@
 bin/
 obj/
 
+*.json
+*.txt
+*.csv
+*.xml
+
 # User-specific files
 *.user
 *.suo
